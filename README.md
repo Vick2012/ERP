@@ -5,3 +5,4 @@
 - se agrgan documento de requerimientos he investigacion
 - documentacion completa para primera entrega
 - se agrega caso de uso para los modulos PROVEEDORES y CLIENTE
+- - Segunda entrega ANDERSON
